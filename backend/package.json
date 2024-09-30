@@ -1,0 +1,14 @@
+
+{
+  "name": "coffee-shop-backend",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "nest start",
+    "build": "nest build"
+  },
+  "dependencies": {
+    "@nestjs/common": "^9.0.0",
+    "@nestjs/core": "^9.0.0"
+  }
+}
